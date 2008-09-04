@@ -1,0 +1,17 @@
+C:\Documents and Settings\danger\My Documents\Projects\LINQ to Ebay\TestEbay\TestEbay\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\danger\My Documents\Projects\LINQ to Ebay\TestEbay\TestEbay\bin\Debug\TestEbay.exe
+C:\Documents and Settings\danger\My Documents\Projects\LINQ to Ebay\TestEbay\TestEbay\bin\Debug\TestEbay.pdb
+C:\Documents and Settings\danger\My Documents\Projects\LINQ to Ebay\TestEbay\TestEbay\obj\Debug\TestEbay.exe
+C:\Documents and Settings\danger\My Documents\Projects\LINQ to Ebay\TestEbay\TestEbay\obj\Debug\TestEbay.pdb
+C:\Users\danger\Documents\Projects\LINQ to Ebay\TestEbay\TestEbay\bin\Debug\TestEbay.exe
+C:\Users\danger\Documents\Projects\LINQ to Ebay\TestEbay\TestEbay\bin\Debug\TestEbay.pdb
+C:\Users\danger\Documents\Projects\LINQ to Ebay\TestEbay\TestEbay\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\danger\Documents\Projects\LINQ to Ebay\TestEbay\TestEbay\obj\Debug\TestEbay.exe
+C:\Users\danger\Documents\Projects\LINQ to Ebay\TestEbay\TestEbay\obj\Debug\TestEbay.pdb
+C:\Users\danger\Documents\Projects\LINQtoEbay\Test Ebay\TestEbay\obj\Debug\TestEbay.exe
+C:\Users\danger\Documents\Projects\LINQtoEbay\Test Ebay\TestEbay\obj\Debug\TestEbay.pdb
+C:\Users\danger\Documents\Projects\LINQtoEbay\Test Ebay\TestEbay\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\danger\Documents\Projects\LINQtoEbay\Test Ebay\TestEbay\bin\Debug\TestEbay.exe
+C:\Users\danger\Documents\Projects\LINQtoEbay\Test Ebay\TestEbay\bin\Debug\TestEbay.pdb
+C:\Users\danger\Documents\Projects\LINQtoEbay\LINQtoEbay\TestEbay\obj\Debug\TestEbay.exe
+C:\Users\danger\Documents\Projects\LINQtoEbay\LINQtoEbay\TestEbay\obj\Debug\TestEbay.pdb

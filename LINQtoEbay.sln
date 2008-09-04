@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQtoEbay", "LINQtoEbay\LINQtoEbay.csproj", "{3BBFEC4E-0BC1-41FA-A3B4-EACE10BDC18D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{DED5147C-5266-4568-95BB-9ADFDC251A43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BBFEC4E-0BC1-41FA-A3B4-EACE10BDC18D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BBFEC4E-0BC1-41FA-A3B4-EACE10BDC18D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BBFEC4E-0BC1-41FA-A3B4-EACE10BDC18D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BBFEC4E-0BC1-41FA-A3B4-EACE10BDC18D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DED5147C-5266-4568-95BB-9ADFDC251A43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DED5147C-5266-4568-95BB-9ADFDC251A43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DED5147C-5266-4568-95BB-9ADFDC251A43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DED5147C-5266-4568-95BB-9ADFDC251A43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
