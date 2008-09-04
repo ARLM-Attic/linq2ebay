@@ -16,7 +16,7 @@ namespace Test
             string ipod = "ipod";
             var query = (from it in queryable
                          where it.Description == "ipod" && it.BuyItNowAvailable
-                         //orderby it.EndTime descending
+                         orderby it.EndTime descending
                          select it);
 
             foreach (var it in query)
